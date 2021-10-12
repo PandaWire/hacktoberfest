@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Andrew Pai] (https://github.com/PandaWire)
-- Place: Washington, USA
+- Place: Bellevue, Washington USA
 - Sad high schooler
 - Github: [PandaWire] (https://github.com/PandaWire)
